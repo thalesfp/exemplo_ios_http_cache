@@ -14,3 +14,8 @@ Desenvolvido usando Objective-C e XCode 6.
 ### Backend
 
 Desenvolvido usando [Sinatra](http://www.sinatrarb.com/), um framework escrito em Ruby.
+
+URL de teste:
+
+* https://exemplo-ios-http-cache.herokuapp.com/
+
