@@ -1,4 +1,4 @@
-# Exemplo de aplicação iOS usando HTTP cache
+# Exemplo de aplicação iOS usando cache de requisições HTTP
 
 Uma das maneiras mais comuns de melhorar a experiência do usuário é tentando deixar o aplicativo o mais rápido possível.
 Para aplicativos que se comunicam com uma API web, umas das melhoras maneiras de acelerar o processo é fazendo cache das requisições.
